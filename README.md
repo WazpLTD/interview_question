@@ -6,4 +6,4 @@ This is a flask app that pulls a cat fact from a remote api and displays it as s
 
 - How would you improve/change the route that pulls the cat fact from the remote api and renders it as html?
 - How would you implement a route that allows the user to download the cat fact as a PDF.
-- How would you write unit tests to cover the two routes described above.
+- How would you change the one unit test and what other unit tests would you write.
